@@ -1,0 +1,10 @@
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.qza
+*.qzv
+core-metrics/
+tmp/
